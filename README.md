@@ -2,7 +2,7 @@
 
 
 
-![image](https://raw.githubusercontent.com/EladOzCohen/Visualizations/main/israel_buses.png)
+![image](https://raw.githubusercontent.com/EladOzCohen/Visualizations/main/bus_stops.png)
 
 
 ```R
